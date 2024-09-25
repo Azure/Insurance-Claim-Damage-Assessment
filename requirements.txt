@@ -1,0 +1,11 @@
+gradio
+openai
+python-dotenv
+opencv-python-headless
+moviepy
+Pillow
+azure-identity
+requests
+ffmpeg-python
+jupyter
+ipykernel
